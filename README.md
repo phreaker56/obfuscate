@@ -66,10 +66,11 @@
 
 #### Installation
     
-     git clone https://github.com/Cesar-Hack-Gray/obfuscate
+     git clone https://github.com/phreaker56/obfuscate
      cd obfuscate
      bash setup
      obfuscate
+     
      
 #### Contacta https://t.me/CesarGray
 
